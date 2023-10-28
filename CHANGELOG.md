@@ -1,3 +1,9 @@
+## lab07 (2023-10-21)
+
+**Full Changelog**: [https://github.com/AnnaZhiv/infosec/compare/l05...l06](https://github.com/AnnaZhiv/infosec/compare/l06...l07)
+
+add lab07 [elements](https://github.com/AnnaZhiv/infosec/commit/3f33aca04046e89f0783e64aebc4b55c17af9922)
+
 ## lab06 (2023-10-14)
 
 **Full Changelog**: https://github.com/AnnaZhiv/infosec/compare/l05...l06
